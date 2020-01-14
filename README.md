@@ -1,1 +1,1 @@
-This is to hold the music profile files I make.
+This is to hold the [music profile](index.html) files I make.
